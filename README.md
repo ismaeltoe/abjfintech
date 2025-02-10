@@ -41,11 +41,11 @@ Create the PostgreSQL database that the project will use.
 Create a `.env` file inside the project and fill it with the Flutterwave API token and your database params.
 Here's an example of the `.env` file content:
 
-`API_TOKEN=FLWSECK_TEST-SANDBOXDEMOKEY-X
+API_TOKEN=FLWSECK_TEST-SANDBOXDEMOKEY-X
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=root
-DB_NAME=abjfintech`
+DB_NAME=abjfintech
 
 You can this token `FLWSECK_TEST-SANDBOXDEMOKEY-X` for the Flutterwave API sandbox.
 
